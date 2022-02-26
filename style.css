@@ -1,0 +1,43 @@
+body{
+  background-color: #121212;
+}
+.main-box{
+  display: inline-block;
+  margin-left: 550px;
+  background-color: #121212;
+  box-shadow: 2px 2px 30px 10px black;
+  
+}
+.main-box button{
+  font-size: 30px;
+  border: 1px solid black;
+  background-color: #121212;
+  color: white;
+  padding: 10px 22px;
+  width:70px;
+  height: 80px;
+}
+.main-box input{
+  padding: 10px 13px 50px;
+  background-color: white;
+  border: 1px solid black;
+  font-size: 21px;
+}
+.head-css h1{
+  color: white;
+  margin-left: 325px;
+  font-size: 35px;
+  display: inline-block;
+}
+.head-css h2{
+  color: red;
+  margin-left: 5px;
+  font-size: 35px;
+  display: inline-block;
+}
+.head-css p{
+  display: inline-block;
+  color: whitesmoke;
+  font-size: 35px;
+  font-family: monospace;
+}
